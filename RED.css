@@ -1,0 +1,154 @@
+
+.section{
+    height: 1000vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+}
+.navbar2{
+    background-color: orange;   
+    overflow: visible;
+    width: 100%;
+    max-height: 100px;
+position:fixed;
+}
+
+.drpimg img {
+    height: 25px;
+    width: 25px;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-weight: 500;
+}
+
+.user-info img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+
+.Login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.background-image{
+    background-image: url(img/FEX.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+
+.wrapper {
+    width: 500px;
+    background: white;
+    color: maroon;
+    font-size: 15px;
+    text-align: center;
+    font-family: 'Roboto',sans-serif;
+    border-radius: 5%;
+    
+    
+    
+}
+
+.wrapper h1 {
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Roboto',sans-serif;
+    font-weight: 900;
+}
+
+.row {
+    font-family: 'Roboto',sans-serif;
+}
+.wrapper .remember-forgot{
+    display: flex;
+    justify-content: space-between;
+    font-size: 14.5px;
+    margin: -15px 0 15px;
+    margin-top:10px;
+}
+
+.remember-forgot .label .input{
+    color: white;
+    margin-right:  3px;    
+}
+
+.Login .button {
+    height: 50px;
+    width: 100px;
+    border-radius: 40px;
+    font-weight:900;
+    font-size: 16px;
+    border: 2px solid black;
+    text-decoration-color: white;
+    background-color:transparent;    
+}
+
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+border-radius: 50%;
+}
+
+.card-body h3 {
+    text-align: center;
+}
+
+.pgs {
+    color: transparent;
+}
+
+.card-body i {
+    margin-right: 20px;
+}
+
+.h1 {
+    font-weight:900;
+    font-size: 16px;
+    color:white;
+}
+
+.carousel-item {
+    transition: opacity 5s ease-in-out;
+    opacity: 0; /* Hide each slide by default */
+}
+
+.carousel-item.active {
+    opacity: 1; /* Show the active slide */
+    animation: fadeIn 5s ease-in-out forwards;
+}
+section .home{
+    justify-content :center;
+    align-items:center;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+/*Index*/

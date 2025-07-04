@@ -1,0 +1,36 @@
+Options +MultiViews
+
+##Remove Extensions
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+RewriteRule ^index$ index.php [L]
+RewriteRule ^signup$ signup.php 
+RewriteRule ^Home$ Home.php [L]
+RewriteRule ^BFP_Fire_Safety_Children_Edition$ BFP_Fire_Safety_Children_Edition.php [L]
+RewriteRule ^UserDashboard$ UserDashboard.php [L]
+RewriteRule ^Fire_Safety_For_Business_Establishment$ Fire_Safety_For_Business_Establishment.php [L]
+RewriteRule ^Fire_Safety_For_Teenagers$ Fire_Safety_For_Teenagers.php [L]
+RewriteRule ^Fire_Safety_for_Young_Adult$ Fire_Safety_for_Young_Adult.php [L]
+RewriteRule ^Forgot_password$ Forgot_password.php [L]
+RewriteRule ^Modules$ Modules.php [L]
+RewriteRule ^PostTest$ PostTest.php [L]
+RewriteRule ^PreTest$ PreTest.php [L]
+RewriteRule ^Reset_Password$ Reset_Password.php [L]
+RewriteRule ^SetupProfile$ SetupProfile.php [L]
+RewriteRule ^UserDashboard$ UserDashboard.php [L]
+RewriteRule ^UserModules$ UserModules.php [L]
+RewriteRule ^UserScore$ UserScore.php [L]
+RewriteRule ^UserSetupProfile$ UserSetupProfile.php [L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php [L]
+
+# log PHP errors to a file
+php_flag log_errors on
+php_value error_reporting 32767
+php_value error_log "error_log.txt"
+

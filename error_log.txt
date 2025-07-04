@@ -1,0 +1,324 @@
+[15-Dec-2024 17:10:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'account.phone' in 'SELECT' in /home/u262122282/domains/codered.click/public_html/index.php:11
+Stack trace:
+#0 /home/u262122282/domains/codered.click/public_html/index.php(11): mysqli->prepare()
+#1 {main}
+  thrown in /home/u262122282/domains/codered.click/public_html/index.php on line 11
+[15-Dec-2024 17:11:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'phone' in 'SELECT' in /home/u262122282/domains/codered.click/public_html/index.php:11
+Stack trace:
+#0 /home/u262122282/domains/codered.click/public_html/index.php(11): mysqli->prepare()
+#1 {main}
+  thrown in /home/u262122282/domains/codered.click/public_html/index.php on line 11
+[15-Dec-2024 17:12:31 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[15-Dec-2024 17:12:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[15-Dec-2024 17:12:47 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[15-Dec-2024 17:12:47 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[15-Dec-2024 17:12:47 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/u262122282/domains/codered.click/public_html/UserScore.php:111
+Stack trace:
+#0 /home/u262122282/domains/codered.click/public_html/UserScore.php(111): mysqli->close()
+#1 {main}
+  thrown in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 111
+[15-Dec-2024 17:12:56 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[15-Dec-2024 17:12:56 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[15-Dec-2024 17:12:56 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/u262122282/domains/codered.click/public_html/UserScore.php:111
+Stack trace:
+#0 /home/u262122282/domains/codered.click/public_html/UserScore.php(111): mysqli->close()
+#1 {main}
+  thrown in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 111
+[15-Dec-2024 17:12:58 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[15-Dec-2024 17:12:58 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[15-Dec-2024 17:12:58 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/u262122282/domains/codered.click/public_html/UserScore.php:111
+Stack trace:
+#0 /home/u262122282/domains/codered.click/public_html/UserScore.php(111): mysqli->close()
+#1 {main}
+  thrown in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 111
+[15-Dec-2024 17:13:04 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[15-Dec-2024 17:13:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[15-Dec-2024 17:13:04 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/u262122282/domains/codered.click/public_html/UserScore.php:111
+Stack trace:
+#0 /home/u262122282/domains/codered.click/public_html/UserScore.php(111): mysqli->close()
+#1 {main}
+  thrown in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 111
+[15-Dec-2024 17:13:12 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[15-Dec-2024 17:13:12 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[15-Dec-2024 17:13:12 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/u262122282/domains/codered.click/public_html/UserScore.php:111
+Stack trace:
+#0 /home/u262122282/domains/codered.click/public_html/UserScore.php(111): mysqli->close()
+#1 {main}
+  thrown in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 111
+[15-Dec-2024 17:13:28 UTC] PHP Warning:  Undefined array key "phone" in /home/u262122282/domains/codered.click/public_html/UserSetupProfile.php on line 27
+[15-Dec-2024 17:13:28 UTC] PHP Warning:  Undefined array key "establishment" in /home/u262122282/domains/codered.click/public_html/UserSetupProfile.php on line 28
+[15-Dec-2024 17:13:28 UTC] PHP Warning:  Undefined array key "address" in /home/u262122282/domains/codered.click/public_html/UserSetupProfile.php on line 29
+[15-Dec-2024 17:13:28 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/UserSetupProfile.php on line 57
+[15-Dec-2024 17:13:28 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/UserSetupProfile.php on line 57
+[15-Dec-2024 17:13:32 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[15-Dec-2024 17:13:32 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[15-Dec-2024 17:13:32 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/u262122282/domains/codered.click/public_html/UserScore.php:111
+Stack trace:
+#0 /home/u262122282/domains/codered.click/public_html/UserScore.php(111): mysqli->close()
+#1 {main}
+  thrown in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 111
+[15-Dec-2024 17:13:35 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[15-Dec-2024 17:13:35 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[15-Dec-2024 17:13:35 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/u262122282/domains/codered.click/public_html/UserScore.php:111
+Stack trace:
+#0 /home/u262122282/domains/codered.click/public_html/UserScore.php(111): mysqli->close()
+#1 {main}
+  thrown in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 111
+[16-Dec-2024 01:22:24 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[16-Dec-2024 01:22:24 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[16-Dec-2024 01:22:24 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/u262122282/domains/codered.click/public_html/UserScore.php:111
+Stack trace:
+#0 /home/u262122282/domains/codered.click/public_html/UserScore.php(111): mysqli->close()
+#1 {main}
+  thrown in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 111
+[16-Dec-2024 03:37:27 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 03:37:27 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 03:38:21 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 03:38:21 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 03:38:30 UTC] PHP Warning:  Undefined array key "phone" in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 27
+[16-Dec-2024 03:38:30 UTC] PHP Warning:  Undefined array key "establishment" in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 28
+[16-Dec-2024 03:38:30 UTC] PHP Warning:  Undefined array key "address" in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 29
+[16-Dec-2024 03:38:30 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 57
+[16-Dec-2024 03:38:30 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 57
+[16-Dec-2024 03:38:45 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[16-Dec-2024 03:38:45 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[16-Dec-2024 03:38:45 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/u262122282/domains/codered.click/public_html/UserScore.php:111
+Stack trace:
+#0 /home/u262122282/domains/codered.click/public_html/UserScore.php(111): mysqli->close()
+#1 {main}
+  thrown in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 111
+[16-Dec-2024 03:40:51 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[16-Dec-2024 03:40:51 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[16-Dec-2024 03:40:51 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/u262122282/domains/codered.click/public_html/UserScore.php:111
+Stack trace:
+#0 /home/u262122282/domains/codered.click/public_html/UserScore.php(111): mysqli->close()
+#1 {main}
+  thrown in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 111
+[16-Dec-2024 03:42:28 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[16-Dec-2024 03:42:28 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[16-Dec-2024 03:42:28 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/u262122282/domains/codered.click/public_html/UserScore.php:111
+Stack trace:
+#0 /home/u262122282/domains/codered.click/public_html/UserScore.php(111): mysqli->close()
+#1 {main}
+  thrown in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 111
+[16-Dec-2024 03:42:47 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 03:42:47 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 03:59:45 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 03:59:45 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 03:59:55 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 03:59:55 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 03:59:56 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 03:59:56 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 04:00:07 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 04:00:07 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 04:00:17 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 04:00:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 04:02:05 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 04:02:05 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 07:14:58 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 07:14:58 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 07:15:11 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 07:15:11 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 07:15:15 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 07:15:15 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 07:15:22 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 07:15:22 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 07:15:41 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[16-Dec-2024 07:15:41 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[16-Dec-2024 07:15:41 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/u262122282/domains/codered.click/public_html/UserScore.php:111
+Stack trace:
+#0 /home/u262122282/domains/codered.click/public_html/UserScore.php(111): mysqli->close()
+#1 {main}
+  thrown in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 111
+[16-Dec-2024 07:21:18 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[16-Dec-2024 07:21:18 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[16-Dec-2024 07:21:18 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/u262122282/domains/codered.click/public_html/UserScore.php:111
+Stack trace:
+#0 /home/u262122282/domains/codered.click/public_html/UserScore.php(111): mysqli->close()
+#1 {main}
+  thrown in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 111
+[16-Dec-2024 07:21:37 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 07:21:37 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 07:21:53 UTC] PHP Warning:  Undefined array key "phone" in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 27
+[16-Dec-2024 07:21:53 UTC] PHP Warning:  Undefined array key "establishment" in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 28
+[16-Dec-2024 07:21:53 UTC] PHP Warning:  Undefined array key "address" in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 29
+[16-Dec-2024 07:21:53 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 57
+[16-Dec-2024 07:21:53 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 57
+[16-Dec-2024 07:22:01 UTC] PHP Warning:  Undefined array key "phone" in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 27
+[16-Dec-2024 07:22:01 UTC] PHP Warning:  Undefined array key "establishment" in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 28
+[16-Dec-2024 07:22:01 UTC] PHP Warning:  Undefined array key "address" in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 29
+[16-Dec-2024 07:22:01 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 57
+[16-Dec-2024 07:22:01 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 57
+[16-Dec-2024 07:32:35 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 07:32:35 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 07:32:43 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 07:32:43 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 07:32:49 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 07:32:49 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 07:32:55 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 07:32:55 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 07:33:04 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 07:33:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 07:34:49 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[16-Dec-2024 07:34:49 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[16-Dec-2024 07:34:49 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/u262122282/domains/codered.click/public_html/UserScore.php:111
+Stack trace:
+#0 /home/u262122282/domains/codered.click/public_html/UserScore.php(111): mysqli->close()
+#1 {main}
+  thrown in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 111
+[16-Dec-2024 07:35:17 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 07:35:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 07:35:32 UTC] PHP Warning:  Undefined array key "phone" in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 27
+[16-Dec-2024 07:35:32 UTC] PHP Warning:  Undefined array key "establishment" in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 28
+[16-Dec-2024 07:35:32 UTC] PHP Warning:  Undefined array key "address" in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 29
+[16-Dec-2024 07:35:32 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 57
+[16-Dec-2024 07:35:32 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 57
+[16-Dec-2024 07:35:43 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 07:35:43 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 07:35:47 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 07:35:47 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[16-Dec-2024 17:35:14 UTC] PHP Warning:  Undefined array key "username" in /home/u262122282/domains/codered.click/public_html/signup.php on line 9
+[16-Dec-2024 17:35:14 UTC] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/signup.php on line 9
+[16-Dec-2024 17:35:14 UTC] PHP Warning:  Undefined array key "cpassword" in /home/u262122282/domains/codered.click/public_html/signup.php on line 12
+[16-Dec-2024 17:35:14 UTC] PHP Warning:  Undefined array key "admin" in /home/u262122282/domains/codered.click/public_html/signup.php on line 13
+[17-Dec-2024 03:29:03 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[17-Dec-2024 03:29:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[17-Dec-2024 03:29:03 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/u262122282/domains/codered.click/public_html/UserScore.php:111
+Stack trace:
+#0 /home/u262122282/domains/codered.click/public_html/UserScore.php(111): mysqli->close()
+#1 {main}
+  thrown in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 111
+[17-Dec-2024 03:29:08 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[17-Dec-2024 03:29:08 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[17-Dec-2024 03:29:08 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/u262122282/domains/codered.click/public_html/UserScore.php:111
+Stack trace:
+#0 /home/u262122282/domains/codered.click/public_html/UserScore.php(111): mysqli->close()
+#1 {main}
+  thrown in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 111
+[17-Dec-2024 03:32:42 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[17-Dec-2024 03:32:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[17-Dec-2024 03:32:42 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/u262122282/domains/codered.click/public_html/UserScore.php:111
+Stack trace:
+#0 /home/u262122282/domains/codered.click/public_html/UserScore.php(111): mysqli->close()
+#1 {main}
+  thrown in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 111
+[17-Dec-2024 03:32:56 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 03:32:56 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 03:33:02 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 03:33:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 03:33:06 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 03:33:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 03:33:10 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 03:33:10 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 03:33:14 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 03:33:14 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 03:33:22 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 03:33:22 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 03:56:22 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 03:56:22 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 03:57:14 UTC] PHP Warning:  Undefined array key "phone" in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 27
+[17-Dec-2024 03:57:14 UTC] PHP Warning:  Undefined array key "establishment" in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 28
+[17-Dec-2024 03:57:14 UTC] PHP Warning:  Undefined array key "address" in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 29
+[17-Dec-2024 03:57:14 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 57
+[17-Dec-2024 03:57:14 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 57
+[17-Dec-2024 04:08:26 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 04:08:26 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 05:44:12 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 05:44:12 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 05:52:08 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[17-Dec-2024 05:52:08 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[17-Dec-2024 05:52:08 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/u262122282/domains/codered.click/public_html/UserScore.php:111
+Stack trace:
+#0 /home/u262122282/domains/codered.click/public_html/UserScore.php(111): mysqli->close()
+#1 {main}
+  thrown in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 111
+[17-Dec-2024 05:52:11 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[17-Dec-2024 05:52:11 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[17-Dec-2024 05:52:11 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/u262122282/domains/codered.click/public_html/UserScore.php:111
+Stack trace:
+#0 /home/u262122282/domains/codered.click/public_html/UserScore.php(111): mysqli->close()
+#1 {main}
+  thrown in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 111
+[17-Dec-2024 06:00:55 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[17-Dec-2024 06:00:55 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[17-Dec-2024 06:00:55 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/u262122282/domains/codered.click/public_html/UserScore.php:111
+Stack trace:
+#0 /home/u262122282/domains/codered.click/public_html/UserScore.php(111): mysqli->close()
+#1 {main}
+  thrown in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 111
+[17-Dec-2024 06:00:56 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[17-Dec-2024 06:00:56 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[17-Dec-2024 06:00:56 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/u262122282/domains/codered.click/public_html/UserScore.php:111
+Stack trace:
+#0 /home/u262122282/domains/codered.click/public_html/UserScore.php(111): mysqli->close()
+#1 {main}
+  thrown in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 111
+[17-Dec-2024 06:01:40 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 06:01:40 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 06:02:00 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 06:02:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 06:02:06 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 06:02:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 06:24:46 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 06:24:46 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 06:38:06 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[17-Dec-2024 06:38:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[17-Dec-2024 06:38:06 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/u262122282/domains/codered.click/public_html/UserScore.php:111
+Stack trace:
+#0 /home/u262122282/domains/codered.click/public_html/UserScore.php(111): mysqli->close()
+#1 {main}
+  thrown in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 111
+[17-Dec-2024 06:40:34 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[17-Dec-2024 06:40:34 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[17-Dec-2024 06:40:34 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/u262122282/domains/codered.click/public_html/UserScore.php:111
+Stack trace:
+#0 /home/u262122282/domains/codered.click/public_html/UserScore.php(111): mysqli->close()
+#1 {main}
+  thrown in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 111
+[17-Dec-2024 06:44:31 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 06:44:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 06:44:41 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 06:44:41 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 06:44:45 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 06:44:45 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 06:44:49 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 06:44:49 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 06:45:38 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 06:45:38 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 15:07:44 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 15:07:44 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 15:08:01 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 15:08:01 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 20:15:14 UTC] PHP Warning:  Undefined array key "phone" in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 27
+[17-Dec-2024 20:15:14 UTC] PHP Warning:  Undefined array key "establishment" in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 28
+[17-Dec-2024 20:15:14 UTC] PHP Warning:  Undefined array key "address" in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 29
+[17-Dec-2024 20:15:14 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 57
+[17-Dec-2024 20:15:14 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 57
+[17-Dec-2024 20:15:22 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 20:15:22 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[17-Dec-2024 20:19:44 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[17-Dec-2024 20:19:44 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 63
+[17-Dec-2024 20:19:44 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/u262122282/domains/codered.click/public_html/UserScore.php:111
+Stack trace:
+#0 /home/u262122282/domains/codered.click/public_html/UserScore.php(111): mysqli->close()
+#1 {main}
+  thrown in /home/u262122282/domains/codered.click/public_html/UserScore.php on line 111
+[18-Dec-2024 18:18:34 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[18-Dec-2024 18:18:34 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[18-Dec-2024 18:18:35 UTC] PHP Warning:  Undefined array key "phone" in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 27
+[18-Dec-2024 18:18:35 UTC] PHP Warning:  Undefined array key "establishment" in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 28
+[18-Dec-2024 18:18:35 UTC] PHP Warning:  Undefined array key "address" in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 29
+[18-Dec-2024 18:18:35 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 57
+[18-Dec-2024 18:18:35 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/SetupProfile.php on line 57
+[18-Dec-2024 18:18:36 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[18-Dec-2024 18:18:36 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[18-Dec-2024 18:19:01 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[18-Dec-2024 18:19:01 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[18-Dec-2024 18:19:22 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[18-Dec-2024 18:19:22 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[18-Dec-2024 18:19:23 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[18-Dec-2024 18:19:23 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[18-Dec-2024 18:19:27 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[18-Dec-2024 18:19:27 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[18-Dec-2024 18:19:46 UTC] PHP Warning:  Undefined variable $username in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
+[18-Dec-2024 18:19:46 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u262122282/domains/codered.click/public_html/Charts.php on line 77
